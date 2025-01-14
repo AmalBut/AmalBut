@@ -12,11 +12,9 @@
  
  🔭 I’m currently working on **a Palmprint Authentication System for Door Access**
  
- 🌱 I’m constantly exploring **efficient backend solutions and AI-driven systems**
+ 🌱 I’m constantly exploring **efficient backend solutions**
 
-💬 Ask me about **Java, Python, C#, or anything tech-related**
-
-⚡ Fun fact **I find joy in crafting secure and intelligent systems that make life easier.**
+💬 Ask me about **Java, C#, Python or anything tech-related**
 
 </div>
  
