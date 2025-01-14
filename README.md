@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Amal+Butmah!;" />
 </h1>
 
-<h3 align="center">A Computer Systems Engineering Graduate | Backend Developer Enthusiast</h3>
+<h3 align="center">A Computer Engineering Graduate | Backend Developer Enthusiast</h3>
 
 <br/>
 
@@ -59,8 +59,13 @@
 <h2 align="center">🐍 My Contributions 🐍</h2>
 <br>
 <div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AmalBut/output/github-snake.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmalBut/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AmalBut/output/github-snake.svg" />
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/AmalBut/output/github-snake.svg" />
+  </picture>
 </div>
+
 <h2 align="center">⚡ Most Used Languages ⚡</h2>
 <br>
 <div align="center">
