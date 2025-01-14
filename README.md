@@ -64,7 +64,5 @@
 <h2 align="center">⚡ Most Used Languages ⚡</h2>
 <br>
 <div align="center">
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=<USERNAME>&layout=compact&theme=react&border_radius=10" alt="top langs" />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmalBut&layout=compact&theme=react&border_radius=10" alt="top langs" />
 </div>
-
-
