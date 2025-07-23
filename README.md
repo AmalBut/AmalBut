@@ -14,7 +14,7 @@
  
  🌱 I’m constantly exploring **efficient backend solutions**
 
-💬 Ask me about **Java, C#, Python or anything tech-related**
+💬 Ask me about **Java, C#, Python, Cypress or anything tech-related**
 
 </div>
  
