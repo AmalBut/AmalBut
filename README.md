@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a Palmprint Authentication System for Door Access**
+ 🔭 I’m currently working on **Trello Testing Project**
  
- 🌱 I’m constantly exploring **efficient backend solutions**
+ 🌱 I’m constantly exploring **Cypress Automation Testing**
 
 💬 Ask me about **Java, C#, Python, Cypress or anything tech-related**
 
